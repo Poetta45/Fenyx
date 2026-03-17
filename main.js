@@ -1,4 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        System.console.log("Hello, World!");
-    }}
+class Main{
+    static main(){
+        console.log("Hello, World!");
+    }
+}
